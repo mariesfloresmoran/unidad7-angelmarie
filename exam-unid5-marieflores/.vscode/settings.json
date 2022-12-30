@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:Examen U5}/db.sqlite3",
+            "name": "asd"
+        }
+    ],
+    "sqltools.useNodeRuntime": true,
+    "liveServer.settings.port": 5502
+}
