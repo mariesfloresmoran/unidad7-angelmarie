@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(236, 234, 234);
+
+    font-size: 16px;
+    font-weight: 400;
+    color:#e2dfdf;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	scroll-behavior: smooth;
+}
+h1, h2, h3, h4, h5, h6 { color: #020d26; font-family: 'CerebriSans'}
